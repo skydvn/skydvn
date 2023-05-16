@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Khoi (KhoiDOO)</h1>
+<h1 align="center">Hi 👋, I'm Minh-Duong Nguyen</h1>
 <h3 align="center">An AI researcher from Vietnam</h3> 
 
-- 🔭 I'm currently a student (from 2020 Fall) in [School of Electrical and Electronics](https://seee.hust.edu.vn/), [Hanoi University of Science and Technology](https://hust.edu.vn/)
-- ✨ I'm interested in Machine Learning, Mathematics and Data infrastructure.
-- 💻 Solving coding problem is one of my strongest skill
-- 📫 How to reach me **khoido8899@gmail.com**
+- 🔭 I'm currently a graduated researcher (from 2020 Fall) in [School of Computer Science], [Pusan National University]
+- ✨ My interests include (but not limited to) Data Representation, Meta Learning, Multi-task Learning, Reinforcement Learning and variations of versions of Distributed Learning (e.g., FL and MARL).
+- 💻 I'm looking for enthusiastic collaborators in AI researching and publishing into top AI conferences/journals (e.g., ICLR, ICML, NeurIPS, bundles of IEEE Transactions)
+- 📫 How to reach me **mduongbkhn@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
