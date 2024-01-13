@@ -6,7 +6,7 @@
 - 💻 I'm looking for enthusiastic collaborators in AI researching and publishing into top AI conferences/journals (e.g., ICLR, ICML, NeurIPS, bundles of IEEE Transactions)
 - 📫 How to reach me **mduongbkhn@gmail.com**
 
-<a href="https://info.flagcounter.com/W5eT"><img src="https://s11.flagcounter.com/count2/W5eT/bg_C0FFB0/txt_000000/border_000000/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+<a href="[https://info.flagcounter.com/W5eT](https://github.com/skydvn/)"><img src="https://s11.flagcounter.com/count2/W5eT/bg_C0FFB0/txt_000000/border_000000/columns_3/maxflags_12/viewers_0/labels_1/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
