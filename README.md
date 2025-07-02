@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Minh-Duong Nguyen</h1>
 <h3 align="center">An AI researcher from Vietnam</h3> 
 
-- 🔭 I'm currently a graduated researcher (from 2020 Fall) in [School of Computer Science], [Pusan National University]
+- 🔭 I'm currently a PhD Candidate (from 2020 Fall) in [School of Computer Science], [Pusan National University].
+- 🔭 I'm also the incoming Postdoctoral Researcher (from 2025 Fall) in [Department of Intelligent Computing and Data Science], [Vin University].
 - ✨ My interests include (but not limited to) Data Representation, Meta Learning, Multi-task Learning, Reinforcement Learning and variations of versions of Distributed Learning (e.g., FL and MARL).
 - 💻 I'm looking for enthusiastic collaborators in AI researching and publishing into top AI conferences/journals (e.g., ICLR, ICML, NeurIPS, bundles of IEEE Transactions)
 - 📫 How to reach me **mduongbkhn@gmail.com**
